@@ -8,6 +8,8 @@ A modern & retina-friendly eCommerce website build with the aim to engage user e
 ## Features:
 
 - #### **Fully Responsive 💯**
+- #### **Multi Page 📰**
+- #### **Dark Theme 🎨**
 - #### **Cross platform ✅**
 <br/>
 

@@ -5,6 +5,8 @@
 A modern & retina-friendly eCommerce website build with the aim to engage user experience. It features an elegant & stylish design with 3D Product Slider, Cart page, Sidebar Menu, and a lot more.
 <br/>
 
+![Preview](CameraX-preview-website-by-Gulshan-Songara.png)
+
 ## Features:
 
 - #### **Fully Responsive 💯**

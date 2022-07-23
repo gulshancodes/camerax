@@ -2,7 +2,7 @@
 
 ### [Demo Link](https://camerax.netlify.app/) 🔗
 
-A modern & retina-friendly eCommerce website build with the aim to engage user experience. It features an elegant & stylish design with 3D Product Slider, Cart page, Sidebar Menu, and a lot more.
+A modern & retina-friendly eCommerce website built with the aim to engage user experience. It features an elegant & stylish design with a 3D Product Slider, Cart page, & much more.
 <br/>
 
 ![Preview](CameraX-preview-website-by-Gulshan-Songara.png)
@@ -25,7 +25,7 @@ A modern & retina-friendly eCommerce website build with the aim to engage user e
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara-75084214b/)** 
+- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshansongara/)** 
 <br/>
 
 ## License:
